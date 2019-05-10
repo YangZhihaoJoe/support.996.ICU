@@ -232,6 +232,7 @@ Supported by / 支持者:
 * Jie Wang, Maintenance, Hangzhou.China
 * Jing Jing Cao, UX Designer, Anki
 * Jisheng Liang(梁基圣)，Student/Software Engineer
+* Joe Young(杨志豪), Student. Hangzhou,China
 * John Kordich, Software Engineer, Microsoft
 * John William Davis, Full Stack Developer
 * Jonathan Ehrich, Microsoft
